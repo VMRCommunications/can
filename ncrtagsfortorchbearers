@@ -1,0 +1,29 @@
+<!-- NCR 300x250A -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_300x250_A_VMR', [300, 250]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
+
+<!-- NCR 300x250B -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_300x250_B_VMR', [300, 250]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
+
+<!-- NCR 320x50 ios -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_320x50_iOSapp_HeaderandFooter', [320, 50]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
+
+<!-- NCR 320x50_mobileweb -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_320x50_MobileWeb_HeaderandFooter', [320, 50]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
+
+<!-- NCR 728x90 Top  -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_728x90_Top_ATF_VMR', [728, 90]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
+
+<!-- NCR 300x250B -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/4580722/NCRegister.com_300x250_B_VMR', [300, 250]).setTargeting('domain', ['ncregister.com']).setTargeting('campaign', ['201280']).display();
+</script>
